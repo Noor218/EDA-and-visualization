@@ -1,7 +1,9 @@
 # EDA-and-visualization
 
 Exploratory Data Analysis (EDA)
+
 EDA Complete Profliling Report
+
 Data Visualization
 
 **App deployed in streamlit cloud**
